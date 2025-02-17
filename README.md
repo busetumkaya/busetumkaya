@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a backgroun
 ## 🚀 About Me
 - 🌱 **Passionate about Sustainability:** I blend my International Relations background with data analysis to drive impact.
 - 📊 **Experienced in Digital Marketing Analytics:** Analyzed trends, built dashboards, and created actionable reports.
-- 💡 **Quick Learner & Problem-Solver:** Skilled in EDA, A/B testing, web scraping, and machine learning models.
+- 💡 **Quick Learner & Problem-Solver:** Skilled in EDA, A/B testing, and machine learning models.
 
 ## 💻 Skills
 - **Languages:** Python, R, SQL, Excel
