@@ -10,7 +10,7 @@ I'm a **Data Analyst** with a background in **Python, R, SQL, and sustainability
 ## Skills
 - **Languages:** Python, R, SQL, Excel
 - **Libraries:** Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly
-- **Tools:** Jupyter Notebooks, Excel, Looker Studio, Git, Kaggle
+- **Tools:** Jupyter Notebooks, Excel, Power BI
 
 ## Featured Projects
 - **Customer Segmentation Analysis** – SQL-driven analysis for email marketing optimization.
