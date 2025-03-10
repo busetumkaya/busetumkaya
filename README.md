@@ -1,6 +1,6 @@
 # Hi, I'm Buse!
 
-I'm a passionate **Data Analyst** with a background in **Python, R, SQL, and sustainability analysis**. 
+I'm a **Data Analyst** with a background in **Python, R, SQL, and sustainability analysis**. 
 
 ## 🌱 About Me
 - **Passionate about Sustainability:** I love blending my International Relations background with data analysis.
@@ -27,8 +27,8 @@ I'm a passionate **Data Analyst** with a background in **Python, R, SQL, and sus
 - Building machine learning models with Scikit-learn
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/busetumkaya/) 
-- 📊 [Kaggle](https://www.kaggle.com/busetmkaya)
+- [LinkedIn](https://www.linkedin.com/in/busetumkaya/) 
+- [Kaggle](https://www.kaggle.com/busetmkaya)
 
 ---
-⭐️ Check out my [project portfolio](https://github.com/busetumkaya/buse-tumkaya-portfolio) for more detailed case studies.
+Check out my [project portfolio](https://github.com/busetumkaya/buse-tumkaya-portfolio) for more detailed case studies.
