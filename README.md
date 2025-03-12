@@ -31,4 +31,4 @@ I'm a **Data Analyst** with a background in **Python, R, SQL, and sustainability
 - [Kaggle](https://www.kaggle.com/busetmkaya)
 
 ---
-Check out my [project portfolio](https://github.com/busetumkaya/buse-tumkaya-portfolio) for more detailed case studies.
+Check out my [portfolio](https://github.com/busetumkaya/buse-tumkaya-portfolio) for more detailed case studies.
